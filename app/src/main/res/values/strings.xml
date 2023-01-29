@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nulis</string>
+    <string name="new_title">Judul Catatan</string>
+    <string name="new_description">Catat di Sini ......</string>
+    <string name="create">Buat</string>
+    <string name="decription">Deskripsi</string>
+    <string name="enter_updated_description">Ubah Catatan .....</string>
+    <string name="enter_updated_title">Ubah Judul Catatan .....</string>
+</resources>
